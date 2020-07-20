@@ -20,6 +20,8 @@ Get in touch with me!
 
 :bird: <a href="https://twitter.com/JohannesHoppe">Twitter</a>
 
+:e-mail: <a href="mailto:johannes.hoppe@haushoppe-its.de">E-Mail</a>
+
 ## Websites 🏠
 
 :a: <a href="https://angular.schule">Angular.Schule (my company)</a>
