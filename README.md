@@ -28,5 +28,5 @@ Get in touch with me!
 
 :a: <a href="https://angular-heidelberg.de">Angular Heidelberg Meetup</a>
 
-:a: <a href="https://angular.schule">HAUS HOPPE - ITS (German portfolio)</a>
+:a: <a href="https://haushoppe-its.de">HAUS HOPPE - ITS (German portfolio)</a>
 
