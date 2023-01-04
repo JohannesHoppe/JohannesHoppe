@@ -1,5 +1,6 @@
 # Hello, my name is Johannes! 👨🏻‍💻
 
+<br>
 <p align="center">
   <samp>
 I'm Johannes Hoppe – Google Developer Expert (GDE) for Angular,<br> 
