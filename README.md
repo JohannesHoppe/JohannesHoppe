@@ -2,7 +2,8 @@
 
 <p align="center">
   <samp>
-I'm Johannes Hoppe – Google Developer Expert (GDE) for Angular, Developer, Author and Conf Speaker from Heidelberg (Germany).
+I'm Johannes Hoppe – Google Developer Expert (GDE) for Angular,<br> 
+Developer, Author and Conf Speaker from Heidelberg (Germany).
   </samp>
 </p>
 
