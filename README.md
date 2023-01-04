@@ -1,6 +1,6 @@
 # Hello, my name is Johannes! 👨🏻‍💻
 
-<p align="center" style="background-color:silver; padding: 10px">
+<p align="center">
   <samp>
 I'm Johannes Hoppe – Google Developer Expert (GDE) for Angular,<br> 
 Developer, Author and Conf Speaker from Heidelberg (Germany).
