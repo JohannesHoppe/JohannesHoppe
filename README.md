@@ -13,7 +13,7 @@ Developer, Author and Conf Speaker from Heidelberg (Germany).
 Together with [@fmalcher](https://github.com/fmalcher) and [@d-koppenhagen](https://github.com/d-koppenhagen) I authored the German book about [Angular](https://angular-buch.com) with four editions, and our new Angular book available in the first edition:
 
 <p align="center">
-  <a href="https://angular-buch.com"><img src="https://angular-buch.com/assets/img/book-cover-v1m.png" alt="Angular: Das Praxisbuch – von den Grundlagen bis zur professionellen Entwicklung mit Signals (1. Auflage)" width="250"></img></a>
+  <a href="https://angular-buch.com"><img src="https://angular-buch.com/assets/img/book-cover-v1m.png" alt="Angular: Das Praxisbuch – von den Grundlagen bis zur professionellen Entwicklung mit Signals (1. Auflage)" width="250" /></a>
 </p>
 
 ## Contact me :speech_balloon:
