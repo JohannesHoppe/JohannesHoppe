@@ -12,7 +12,7 @@ I help teams build robust web applications with Angular. And I work every day wi
 ## 🤖 Agentic.Schule
 
 <p align="center">
-  <a href="https://agentic.schule"><img src="assets/banner-agentic-schule.png" alt="Agentic.Schule" width="640" /></a>
+  <a href="https://agentic.schule"><img src="assets/banner-agentic-schule.png" alt="Agentic.Schule" width="100%" /></a>
 </p>
 
 Practical articles and trainings about AI for developers, in English and German. Currently running: **30 Days of AI**, a new article every weekday on [agentic.schule](https://agentic.schule).
@@ -20,7 +20,7 @@ Practical articles and trainings about AI for developers, in English and German.
 ## 🅰️ Angular.Schule
 
 <p align="center">
-  <a href="https://angular.schule"><img src="assets/banner-angular-schule.png" alt="Angular.Schule" width="640" /></a>
+  <a href="https://angular.schule"><img src="assets/banner-angular-schule.png" alt="Angular.Schule" width="100%" /></a>
 </p>
 
 Angular workshops and trainings, remote or on site, plus articles and videos on [angular.schule](https://angular.schule). Our open source work lives in the [@angular-schule](https://github.com/angular-schule) organization, for example [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages), which deploys Angular apps to GitHub Pages, Cloudflare Pages and other Git repos straight from the Angular CLI.
