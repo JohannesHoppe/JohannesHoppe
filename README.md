@@ -1,34 +1,38 @@
-# Hello, my name is Johannes! 👨🏻‍💻
+# Hi, I'm Johannes 👋
 
-<br>
 <p align="center">
   <samp>
-I'm Johannes Hoppe – Google Developer Expert (GDE) for Angular,<br> 
-Developer, Author and Conf Speaker from Heidelberg (Germany).
+Google Developer Expert (GDE) for Angular · Consultant · Trainer · Author · Speaker<br>
+Based in Heidelberg, Germany
   </samp>
 </p>
 
-## Angular Book :closed_book: 
+I help teams build robust web applications with Angular. And I work every day with AI agents like Claude Code, a way of building software that is often called **Agentic Coding**. I share what works in real projects, and where the limits are, in talks, articles and trainings.
 
-Together with [@fmalcher](https://github.com/fmalcher) and [@d-koppenhagen](https://github.com/d-koppenhagen) I authored the German book about [Angular](https://angular-buch.com) with four editions, and our new Angular book available in the first edition:
+## 🤖 Agentic.Schule
 
 <p align="center">
-  <a href="https://angular-buch.com"><img src="https://angular-buch.com/assets/img/book-cover-v1m.png" alt="Angular: Das Praxisbuch – von den Grundlagen bis zur professionellen Entwicklung mit Signals (1. Auflage)" width="250" /></a>
+  <a href="https://agentic.schule"><img src="assets/banner-agentic-schule.png" alt="Agentic.Schule" width="640" /></a>
 </p>
 
-## Contact me :speech_balloon:
+Practical articles and trainings about AI for developers, in English and German. Currently running: **30 Days of AI**, a new article every weekday on [agentic.schule](https://agentic.schule).
 
-Get in touch with me!
+## 🅰️ Angular.Schule
 
-:bird: <a href="https://twitter.com/JohannesHoppe">Twitter</a>
+<p align="center">
+  <a href="https://angular.schule"><img src="assets/banner-angular-schule.png" alt="Angular.Schule" width="640" /></a>
+</p>
 
-:e-mail: <a href="mailto:johannes.hoppe@haushoppe-its.de">E-Mail</a>
+Angular workshops and trainings, remote or on site, plus articles and videos on [angular.schule](https://angular.schule). Our open source work lives in the [@angular-schule](https://github.com/angular-schule) organization, for example [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages), which deploys Angular apps to GitHub Pages, Cloudflare Pages and other Git repos straight from the Angular CLI.
 
-## Websites 🏠
+## 📕 The Angular Book
 
-:a: <a href="https://angular.schule">Angular.Schule (my company)</a>
+Together with [@fmalcher](https://github.com/fmalcher) and [@d-koppenhagen](https://github.com/d-koppenhagen) I wrote the German standard work on Angular. Our new book is completely rewritten for Angular 22, with Signals, Signal Forms, Resource API and Vitest. 1st edition (2026), dpunkt.verlag, print and digital.
 
-:a: <a href="https://angular-heidelberg.de">Angular Heidelberg Meetup</a>
+<p align="center">
+  <a href="https://angular-buch.com"><img src="https://angular-buch.com/assets/img/book-cover-v1m.png" alt="Angular: Das Praxisbuch, 1st edition (2026)" width="250" /></a>
+</p>
 
-:a: <a href="https://haushoppe-its.de">HAUS HOPPE - ITS (German portfolio)</a>
+## 💬 Get in touch
 
+[LinkedIn](https://www.linkedin.com/in/johanneshoppe) · [X](https://x.com/JohannesHoppe) · [Bluesky](https://bsky.app/profile/johanneshoppe.de) · [E-Mail](mailto:johannes.hoppe@haushoppe-its.de) · [haushoppe-its.de](https://haushoppe-its.de) (German)
