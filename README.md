@@ -7,7 +7,7 @@ Based in Heidelberg, Germany
   </samp>
 </p>
 
-I help teams build robust web applications with Angular. And I work every day with AI agents like Claude Code, a way of building software that is often called **Agentic Coding**. I share what works in real projects, and where the limits are, in talks, articles and trainings.
+I help teams build robust web applications with Angular, and I do **Agentic Coding** with Claude Code every day. I share what works in real projects, and where the limits are, in talks, articles and trainings.
 
 ## 🤖 Agentic.Schule
 
